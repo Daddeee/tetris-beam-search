@@ -5,7 +5,7 @@ authors:
     given-names: Davide
     orcid: https://orcid.org/0000-0002-6709-3737
 title: "Tetris Beam Search Instances"
-version: 2.0.4
+version: 0.0.1
 # identifiers:
 #  - type: doi
 #    value: 10.5281/zenodo.1234
