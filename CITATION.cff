@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these instances, please cite them as below."
+authors:
+  - family-names: Croci
+    given-names: Davide
+    orcid: https://orcid.org/0000-0002-6709-3737
+title: "Tetris Beam Search Instances"
+version: 2.0.4
+# identifiers:
+#  - type: doi
+#    value: 10.5281/zenodo.1234
+# date-released: 2021-08-11
